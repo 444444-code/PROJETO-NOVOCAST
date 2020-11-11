@@ -1,0 +1,81 @@
+footer{
+    clear: both;
+    position: relative;
+    width: 100%;
+    background-color: black;
+}
+footer .container-foooter{
+    display: inline-block;
+    
+}
+.container-foooter a {
+    padding-left: 350px;
+    
+    text-decoration: none;
+    color: #DEB887;
+}
+.container-foooter ul {
+    margin-left: 70px;
+    margin-top: 10;
+    position: absolute;
+    top: 30%;
+    right: 52%;
+}
+.container-foooter h1 {
+   color: white;
+   margin-left: 70px;
+    margin-top: 10;
+    position: absolute;
+    top: 30px;
+    right: 50%;
+}
+
+
+.button2 {
+    background-color: #DEB887;
+    border: none;
+    font-size: 1.1em;
+    font-family: fantasy;
+    box-shadow: 0 4px 4px #CD853F;
+    padding: 0.5em 1em;
+    cursor:pointer;
+    border-radius: 4px; 
+    float: right;
+    margin-left: 20px;
+    margin-top: 8%;
+    position: absolute;
+    top: 30px;
+    right: 30%;
+}
+.button2 a {
+    color: black;
+    text-decoration: none;
+}
+.button2 a:hover {
+    color: white;
+}
+
+.button1 {
+    background-color: #DEB887;
+    border: none;
+    font-size: 1.1em;
+    font-family: fantasy;
+    box-shadow: 0 4px 4px #CD853F;
+    padding: 0.5em 1em;
+    cursor:pointer;
+    border-radius: 4px; 
+    float: right;
+    margin-left: 20px;
+    margin-top: 3%;
+    position: absolute;
+    top: 30px;
+    right: 30%;
+}
+.button1 a {
+    color: black;
+    text-decoration: none;
+}
+.button1 a:hover {
+    color: white;
+}
+
